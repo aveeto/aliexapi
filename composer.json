@@ -1,14 +1,14 @@
 {
-    "name": "clchangnet/aliexapi",
+    "name": "aveeto/aliexapi",
     "description": "AliExpress Affiliate API PHP Library",
     "keywords": ["Aliexpress", "Product Advertising", "SOAP", "REST", "Affiliate Products"],
-    "homepage": "https://github.com/clchangnet/aliexapi",
+    "homepage": "https://github.com/aveeto/aliexapi",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Allan Chang",
-            "email": "allan@clchang.net"
+            "name": "Georges Haddad",
+            "email": "prismosoft@gmail.com"
         }
     ],
     "require": {},
