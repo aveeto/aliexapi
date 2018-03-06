@@ -19,24 +19,5 @@
         "psr-4": {
             "AliexApi\\": "src/AliexIO"
         }
-    },
-    "repositories": [
-        {
-	        "type": "package",
-	        "package": {
-	            "name": "aveeto/aliexapi",
-	            "version": "master",
-	            "source": {
-	                "url": "git://github.com/aveeto/aliexapi.git",
-	                "type": "git",
-	                "reference": "master"
-	            },
-	            "autoload": {
-	                "psr-4" : {
-	                    "AliexApi\\" : "src/AliexIO"
-	                }
-	            }
-	        }
-	    }
-    ]
+    }
 }
