@@ -33,7 +33,7 @@
 	            },
 	            "autoload": {
 	                "psr-4" : {
-	                    "AliexApi\\" : "src"
+	                    "AliexApi\\" : "src/AliexIO"
 	                }
 	            }
 	        }
