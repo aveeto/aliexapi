@@ -2,7 +2,7 @@
 
 namespace AliexApi\Operations;
 
-class ListHotProductss extends AbstractOperation
+class ListHotProducts extends AbstractOperation
 {
     public function getName()
     {
