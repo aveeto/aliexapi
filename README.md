@@ -18,7 +18,7 @@ Add the package 'clchangnet/aliexapi' to composer.json file:
 ```js
 {
     "require": {
-        "clchangnet/aliexapi": "~1.0"
+        "aveeto/aliexapi": "~1.0"
     }
 }
 ```
